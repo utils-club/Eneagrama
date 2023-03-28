@@ -30,7 +30,7 @@ function iniciar_prueba() {
 .LandingTitulo {
     margin: auto;
     text-align: center;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 .LandingFormulario {
     display: flex;
@@ -42,8 +42,11 @@ button {
     margin: 20px 0px;
 }
 h1 {
-    font-size: 3.7em;
+    font-size: 3em;
     font-family: monospace;
+}
+h2 {
+    font-size: 1.1em;
 }
 input {
     margin: 15px 0px;
