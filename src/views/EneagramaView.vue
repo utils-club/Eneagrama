@@ -76,6 +76,7 @@ function busque_pregunta() {
 h3 {
     font-size: 2em;
     font-family: 'Courier New', Courier, monospace;
+    margin-top: 15px;
 }
 
 .OpcionesPregunta {
@@ -91,6 +92,6 @@ button {
     margin-top: 20px;
 }
 .EnunciadoPregunta {
-    min-height: 4.5em;
+    min-height: 9.5em;
 }
 </style>
