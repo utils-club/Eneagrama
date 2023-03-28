@@ -1,0 +1,13 @@
+* {
+  color: darkblue;
+  font-size: 1.1em;
+}
+
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  min-width: 200px;
+  margin: auto;
+  padding: 20px;
+  background-color: whitesmoke;
+}
